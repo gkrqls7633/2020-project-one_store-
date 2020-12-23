@@ -25,7 +25,7 @@
 * Remove outliers & Buyer of Information Disagreement
 
 
-- data shape : (85314, 29)
+- Finally customer_data table shape : (85314, 29)
 
 ![customer table](https://user-images.githubusercontent.com/68583172/103008544-a6194c80-4578-11eb-8393-e1f91eee92ed.PNG)
 
