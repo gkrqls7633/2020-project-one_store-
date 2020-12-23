@@ -78,5 +78,9 @@
 - LR accuracy : 0.8261
 - RF accuracy : 0.8636
 
+#### Ensenble result
+- accuracy : 0.8628
+
+![image](https://user-images.githubusercontent.com/68583172/103015314-8b000a00-4583-11eb-90bf-cf7cd1dbbced.png)
 
 
