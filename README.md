@@ -18,7 +18,9 @@
 
 #### Convert to Customer Table
 * Customer Based Table
-- Generate various derivatives
+* Generate various derivatives
 - data shape : (85314, 29)
+
+![customer table](https://user-images.githubusercontent.com/68583172/103008544-a6194c80-4578-11eb-8393-e1f91eee92ed.PNG)
 
 
