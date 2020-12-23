@@ -20,8 +20,12 @@
 ![image](https://user-images.githubusercontent.com/68583172/103009120-85052b80-4579-11eb-8798-475ceae91ac8.png)
 
 ### Data Preprocessing
-#### Remove outliers & Buyer of Information Disagreement
+#### Remove Buyer of Information Disagreement
 - If a customer uses multiple payment methods when purchasing a product, one record will be generated for each payment method, which will be combined.
+
+![image](https://user-images.githubusercontent.com/68583172/103010377-95b6a100-457b-11eb-8e7e-fafc23c9e4c6.png)
+
+#### Processing disagreement buyers who provide personal information
 
 
 
