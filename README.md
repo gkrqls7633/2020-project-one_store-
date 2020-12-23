@@ -46,7 +46,8 @@
 - Create Derived variable : 'Frequency', 'Recency', 'T'
 
 ![image](https://user-images.githubusercontent.com/68583172/103011640-9cdeae80-457d-11eb-8b8f-6ff2635d0909.png)
-
+![image](https://user-images.githubusercontent.com/68583172/103011709-b7b12300-457d-11eb-8f88-f94a31366ffa.png)
+![image](https://user-images.githubusercontent.com/68583172/103011850-f810a100-457d-11eb-9ead-32462ea9804f.png)
 
 ### Modeling
 1. CatBoost
