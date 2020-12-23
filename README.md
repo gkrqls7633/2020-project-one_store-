@@ -15,16 +15,18 @@
 
 ![data table](https://user-images.githubusercontent.com/68583172/103009171-a5cd8100-4579-11eb-8444-418efde43e68.PNG)
 
+#### Convert to Customer Table
 
 ![image](https://user-images.githubusercontent.com/68583172/103009120-85052b80-4579-11eb-8798-475ceae91ac8.png)
 
+### Data Preprocessing
+#### Remove outliers & Buyer of Information Disagreement
+- If a customer uses multiple payment methods when purchasing a product, one record will be generated for each payment method, which will be combined.
 
-#### Convert to Customer Table
+
+
 * Customer Based Table
 * Generate various derivatives
-* Remove outliers & Buyer of Information Disagreement
-
-
 - Finally customer_data table shape : (85314, 29)
 
 ![customer table](https://user-images.githubusercontent.com/68583172/103008544-a6194c80-4578-11eb-8393-e1f91eee92ed.PNG)
