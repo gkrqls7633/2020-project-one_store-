@@ -16,6 +16,9 @@
 ![data table](https://user-images.githubusercontent.com/68583172/103004665-13c37980-4575-11eb-89eb-1d7b4775ba33.PNG)
 
 
+
+
+
 #### Convert to Customer Table
 * Customer Based Table
 * Generate various derivatives
