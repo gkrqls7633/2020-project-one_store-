@@ -27,6 +27,7 @@
 
 #### Processing disagreement buyers who provide personal information
 
+![image](https://user-images.githubusercontent.com/68583172/103010684-08c01780-457c-11eb-8ffb-903a9eda7965.png)
 
 
 * Customer Based Table
@@ -34,6 +35,10 @@
 - Finally customer_data table shape : (85314, 29)
 
 ![customer table](https://user-images.githubusercontent.com/68583172/103008544-a6194c80-4578-11eb-8393-e1f91eee92ed.PNG)
+
+#### Log transformation
+- All of the numeric features have long tail shape
+- Decrease the distortion of the graph after log transformation
 
 
 
