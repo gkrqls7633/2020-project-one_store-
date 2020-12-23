@@ -30,3 +30,15 @@
 ![customer table](https://user-images.githubusercontent.com/68583172/103008544-a6194c80-4578-11eb-8393-e1f91eee92ed.PNG)
 
 
+
+### Modeling
+1. CatBoost
+2. LGBM
+3. Logistic_Regression
+4. Random_Forest
+
+- Catboost accuracy : 0.8642
+- LGBM accuracy : 0.8636
+- LR accuracy : 0.8261
+- RF accuracy : 0.8636
+
