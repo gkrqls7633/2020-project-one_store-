@@ -65,6 +65,8 @@
 [Encoding]
 - Label Encoding : pref_tm(시간대), sex_clsf_cd(성별) 
 - One-hot Encoding : pref_category(카테고리), mno_cd(통신사), Cluster_lkabel(고객 클러스터)
+![image](https://user-images.githubusercontent.com/68583172/103015615-1da0a900-4584-11eb-92b4-dc400a5167de.png)
+
 
 ### Modeling
 1. CatBoost
