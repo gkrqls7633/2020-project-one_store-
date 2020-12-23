@@ -11,6 +11,6 @@
 
 #### Original Data Table
 
-Partition_dt|Prod_id|Partition_dt|unsd_usermbr_no|prod_amd|age_cd|category_nm|dtl_category_nm|sex_clsf_dc|prchs_tm_clsf_nm|mno_cd|cust_payment_amt|sett_target_cpn_amt
----|---|---|---|---|---|
+Partition_dt|Prod_id|Partition_dt|
+---|---|---|---|
 
