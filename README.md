@@ -50,14 +50,13 @@
 
 ![image](https://user-images.githubusercontent.com/68583172/103011640-9cdeae80-457d-11eb-8b8f-6ff2635d0909.png)
 
-
+#### Check skewness & Log transformation of Frequency
 ![image](https://user-images.githubusercontent.com/68583172/103011709-b7b12300-457d-11eb-8f88-f94a31366ffa.png)
-
-
 
 ![image](https://user-images.githubusercontent.com/68583172/103011997-3a39e280-457e-11eb-87c3-5713cb8e3beb.png)
 
-
+- Analysis of silhouette coefficients
+- Maximum silhouette coefficient with 3 clusters
 
 
 ### Modeling
