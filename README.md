@@ -40,6 +40,10 @@
 - All of the numeric features have long tail shape
 - Decrease the distortion of the graph after log transformation
 
+![image](https://user-images.githubusercontent.com/68583172/103011186-d9f67100-457c-11eb-84d0-8309a8027526.png)
+
+#### Lifetime visualization
+- Create Derived variable : 'Frequency', 'Recency', 'T'
 
 
 ### Modeling
