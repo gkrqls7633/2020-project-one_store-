@@ -21,7 +21,6 @@
 [Log transformation]
 - All of the numeric features have long tail shape
 - Decrease the distortion of the graph after log transformation
-![image](https://user-images.githubusercontent.com/68583172/103011186-d9f67100-457c-11eb-84d0-8309a8027526.png)
 
 [Consumer Lifetime visualization]
 - Create Derived variable : 'Frequency', 'Recency', 'T'
@@ -33,7 +32,6 @@
 [K-means clustering using 'Frequency', 'Recency', 'T]
 - Analysis of silhouette coefficients
 - Maximum silhouette coefficient with 3 
-![image](https://user-images.githubusercontent.com/68583172/103011997-3a39e280-457e-11eb-87c3-5713cb8e3beb.png)
 
 ### Modeling
 1. CatBoost
