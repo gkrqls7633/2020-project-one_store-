@@ -41,10 +41,3 @@
 4. Random_Forest
 
 ![image](https://user-images.githubusercontent.com/68583172/103015242-673cc400-4583-11eb-8a7d-a1c25ca47eb1.png)
-
-
-[Ensenble result]
-
-![image](https://user-images.githubusercontent.com/68583172/103015314-8b000a00-4583-11eb-90bf-cf7cd1dbbced.png)
-
-
