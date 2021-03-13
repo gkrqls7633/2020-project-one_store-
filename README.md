@@ -12,12 +12,11 @@
 4. Modeling & Result
 5. Expectation Effectiveness
 
-
 #### Original Data Table
 * Transaction data of 2020/02~2020/07
 - data shape : (40131396, 14)
 
-* Customer Based Table
+#### Customer Based Table
 - Finally customer_data table shape : (85314, 29)
 ![customer table](https://user-images.githubusercontent.com/68583172/103008544-a6194c80-4578-11eb-8393-e1f91eee92ed.PNG)
 
