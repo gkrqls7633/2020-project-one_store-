@@ -2,6 +2,9 @@
 
 ## Project name : [Predict whether or not to purchase a flat rate system]
 
+### summary
+- Under the theme of [Predicting whether to purchase a flat-rate system] to identify customer characteristics and utilize predictive models (organized by the Korea Data Industry Promotion Agency)
+
 ### index
 1. Select a topic
 2. EDA
